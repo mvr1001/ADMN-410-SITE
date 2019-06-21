@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+			<title> Products </title>
+			<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+	<header>
+		<h1>Durham House of Pets</h1>
+		<h2> 6 Garrison Avenue, Durham NH, 03823</h2>
+	</header>
+</body>
+	<header>
+		<h2>Fish Tanks and Food</h2>
+	</header>
+	<aside>
+		<img id="fishtank1" src="fishtank1.jpeg"/>
+		<img id="fishtank2" src="fishtank2.jpeg"/> 
+	</aside>
+<section>
+Premium Dog Food - $20
+Premium Lamb Dog Food - $30
+Premium Chicken Dog Food - $15
+Vest Dog Apparel - $20
+Rain Coat Dog Apparel - $40
+</section>
